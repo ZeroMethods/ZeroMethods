@@ -16,3 +16,13 @@ Hello, world! I am Zerome, an Electrical Engineer Undergraduate in Institut Tekn
 ![image alt](https://github.com/ZeroMethods/zerome-introduction/blob/34c86bf1d1b4048efcc5883a53839fc3e96d6c00/IMG_3288.JPG)
 
 ![image alt](https://github.com/ZeroMethods/zerome-introduction/blob/34c86bf1d1b4048efcc5883a53839fc3e96d6c00/IMG_3673.JPG)
+
+<h3 data-importer="text" align="center">My Simple Projects (˶ˆᗜˆ˵)</h3>
+<p align="center">
+  <img
+src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999a9525402b8fae/Recording%202026-10-13%20014321.gif" alt="gif alt" width="500">
+<img
+src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999a9525402b8fae/Recording%202026-10-13%20013926.gif" alt="gif alt" width="500">
+<img
+src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999a9525402b8fae/Recording%202026-10-13%20014142.gif" alt="gif alt" width="500">
+</p>
