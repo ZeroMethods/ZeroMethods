@@ -41,14 +41,3 @@ src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999
 <img
 src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999a9525402b8fae/Recording%202026-10-13%20014142.gif" alt="gif alt" width="500">
 </p>
-
-###
-
-<picture data-importer="pacman">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-
-###
