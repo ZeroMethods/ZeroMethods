@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ZeroMethods/ZeroMethods/blob/80becd069d718618196476b91c2091a3950b8681/sky%20peace%20GIF.gif" alt="gif alt" width="500">
+  <img src="https://github.com/ZeroMethods/ZeroMethods/blob/2345697fa05bdcfb1c65d05a84684cd496845145/Art%20Sun%20GIF.gif" alt="gif alt" width="500">
 </p>
 
 <h1 data-importer="text" align="center">🔥 Introduction 🔥</h1>
@@ -42,8 +42,13 @@ src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999
 src="https://github.com/ZeroMethods/ZeroMethods/blob/1025ae29ff051fafd90ce579999a9525402b8fae/Recording%202026-10-13%20014142.gif" alt="gif alt" width="500">
 </p>
 
+###
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mmm/mmm/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+
+###
